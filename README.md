@@ -3,3 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Phuong+Anh+Vu!;" />
 </h1>
 <h3 align="center">I'm passionate about software development, with a focus on Drupal/PHP, JavaScript/jQuery, and Python.</h3>
+
+During my coding journey, I've had the opportunity to work on exciting Drupal and Python websites, where I created and collaborated with developers around the world. It's these hands-on experiences that fuel my enthusiasm for turning ideas into code.
+
+Beyond coding, I'm an avid reader, and it was through books that I discovered my love for software.

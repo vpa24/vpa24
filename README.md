@@ -26,7 +26,7 @@ As I continue to explore the limitless possibilities in the tech world, I'm thri
 
 <p>
     <a href="https://github.com/search?q=user%3Avpa24+language%3Aphp&type=repositories"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Avpa24+language%3AC%23+&type=repositories"><img alt="C#" src="https://camo.githubusercontent.com/d40038d4056a82ac0b85c653153e295f62fd55907531e7ab53e2d5047edc0fd7/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e6865726f6b756170702e636f6d2f62616467652f432532332d3638323137412e7376673f6c6f676f3d637332266c6f676f436f6c6f723d7768697465"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>

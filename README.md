@@ -59,6 +59,7 @@ As I continue to explore the limitless possibilities in the tech world, I'm thri
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
     <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7"></a>
+    <a href="#"><img alt="Pantheon" src="https://img.shields.io/badge/Pantheon-FFDC28.svg?logo=Pantheon&logoColor=black"></a>
 </p>
 <br>
  

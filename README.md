@@ -25,7 +25,7 @@ As I continue to explore the limitless possibilities in the tech world, I'm thri
 ### 👨‍💻 Programming languages
 
 <p>
-    <a href="https://github.com/search?q=user%3Avpa24+language%3Aphp&type=repositories"><img alt="PHP" src="[https://custom-icon-badges.herokuapp.com/badge/PHP.svg?logo=asm-hex&logoColor=white](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)"></a>
+    <a href="https://github.com/search?q=user%3Avpa24+language%3Aphp&type=repositories"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>

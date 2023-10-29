@@ -9,4 +9,11 @@ During my coding journey, I've had the opportunity to work on exciting Drupal an
 Beyond coding, I'm an avid reader, and it was through books that I discovered my love for creating websites.
 
 As I continue to explore the limitless possibilities in the tech world, I'm thrilled to engage with fellow developers, exchange knowledge, and team up on exciting projects. Feel free to reach out if you'd like to chat or collaborate. Let's embark on this coding adventure together! 🚀 
-
+<div align="center"> 
+  <a href="mailto:phuonganhvu497@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/phuonganhvu497" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>

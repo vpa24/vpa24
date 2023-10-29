@@ -17,3 +17,14 @@ As I continue to explore the limitless possibilities in the tech world, I'm thri
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=php,bootstrap,html,css,scss,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=python,django,javascript,jquery,c,java,mysql" /><br>
+</div>
+
+<br/>
+<hr/>

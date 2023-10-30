@@ -45,7 +45,7 @@ As I continue to explore the limitless possibilities in the tech world, I'm thri
     <a href="#"><img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?logo=jquery&logoColor=white"></a>
     <a href="#"><img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white"></a>
     <a href="#"><img alt="Drupal" src="https://img.shields.io/badge/drupal-%230678BE.svg?logo=drupal&logoColor=white"></a>
-
+    <a href="#"><img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white"></a>
 </p>
 <br>
  

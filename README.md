@@ -33,6 +33,8 @@ As I continue to explore the limitless possibilities in the tech world, I'm thri
     <a href="https://github.com/search?q=user%3Avpa24++language%3Asass&type=repositories"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Avpa24++language%3APython+&type=repositories"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Avpa24++language%3AYaml+&type=repositories"><img alt="Yaml" src="https://img.shields.io/badge/YAML-CB171E.svg?logo=YAML&logoColor=white"></a>
+     <a href="https://github.com/search?q=user%3Avpa24++language%3AJSON+&type=repositories"><img alt="Yaml" src="https://img.shields.io/badge/JSON-000000.svg?logo=JSON&logoColor=white"></a>
+    
 </p>
 <br>
 

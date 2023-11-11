@@ -75,7 +75,9 @@ As I continue to explore the limitless possibilities in the tech world, I'm thri
     <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white"></a>
     <a href="#"><img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?logo=vim&logoColor=white"></a>
     <a href="#"><img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?logo=notepad%2b%2b&logoColor=black"></a>
-    <a href="#"><img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-%23483699.svg?logo=obsidian&logoColor=white"></a>                                                                                                    <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
+    <a href="#"><img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-%23483699.svg?logo=obsidian&logoColor=white"></a>                                                                                                    
+    <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
+    <a href="#"><img alt="Read the Docs" src="https://img.shields.io/badge/Read%20the%20Docs-8CA1AF.svg?logo=Read-the-Docs&logoColor=white"></a>
 </p
  <br>
 

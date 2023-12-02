@@ -4,7 +4,7 @@
 </h1>
 <h3 align="center">I'm passionate about software development, with a focus on Drupal/PHP, JavaScript/jQuery, and Python websites.</h3>
 
-During my coding journey, I've had the opportunity to work on exciting Drupal and Python websites, where I created and collaborated with developers around the world. It's these hands-on experiences that fuel my enthusiasm for turning ideas into code.
+During my coding journey, I've had the opportunity to work on many exciting Drupal and Python websites, where I created and collaborated with developers around the world. It's these hands-on experiences that fuel my enthusiasm for turning ideas into code.
 
 As I continue to explore the limitless possibilities in the tech world, I'm thrilled to engage with fellow developers, exchange knowledge, and team up on exciting projects. Feel free to reach out if you'd like to chat or collaborate. Let's embark on this coding adventure together! 🚀 
 

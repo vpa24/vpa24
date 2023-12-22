@@ -50,6 +50,7 @@ I’m best reached via [email](phuonganhvu497@gmail.com). I’m always open to i
     <a href="#"><img alt="Drupal" src="https://img.shields.io/badge/drupal-%230678BE.svg?logo=drupal&logoColor=white"></a>
     <a href="#"><img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4.svg?logo=dotnet&logoColor=white"></a>
     <a href="#"><img alt="Read the Docs" src="https://img.shields.io/badge/Read%20the%20Docs-8CA1AF.svg?logo=Read-the-Docs&logoColor=white"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"></a>
 </p>
 <br>
  

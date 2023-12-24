@@ -32,6 +32,7 @@ I’m best reached via [email](phuonganhvu497@gmail.com). I’m always open to i
     <a href="https://github.com/search?q=user%3Avpa24++language%3Ahtml&type=repositories"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Avpa24++language%3Asass&type=repositories"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Avpa24++language%3APython+&type=repositories"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Avpa24++language%3Amarkdown"><img alt="Markdown" src="https://camo.githubusercontent.com/0efd050828ea5aa9f24a975795966252bcaa93ce8d2bb4823bc75b52931a9749/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d61726b646f776e2d3030303030302e7376673f6c6f676f3d6d61726b646f776e266c6f676f436f6c6f723d7768697465"></a>
     <a href="https://github.com/search?q=user%3Avpa24++language%3AYaml+&type=repositories"><img alt="Yaml" src="https://img.shields.io/badge/YAML-CB171E.svg?logo=YAML&logoColor=white"></a>
      <a href="https://github.com/search?q=user%3Avpa24++language%3AJSON+&type=repositories"><img alt="JSON" src="https://img.shields.io/badge/JSON-000000.svg?logo=JSON&logoColor=white"></a>
     

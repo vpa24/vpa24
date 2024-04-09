@@ -26,7 +26,6 @@ I’m best reached via [email](phuonganhvu497@gmail.com). I’m always open to i
 
 <p>
     <a href="https://github.com/search?q=user%3Avpa24+language%3Aphp&type=repositories"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Avpa24+language%3AC%23+&type=repositories"><img alt="C#" src="https://img.shields.io/badge/C#-512BD4.svg?logo=C#&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Avpa24+language%3AJavaScript+&type=repositories"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/search?q=user%3Avpa24++language%3Acss&type=repositories"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Avpa24++language%3Ahtml&type=repositories"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
